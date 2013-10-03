@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "views.js",
+  "sourceRoot": "",
+  "sources": [
+    "views.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA;oSAAA;;CAAA,CAAA,CAAqE,GAArE,EAAqE,CAAE,GAAhE,CAAA,eAAA;CACL,OAAA,IAAA;WAAA;CAAA,CAAc,IAAd;CACE;;;;;CAAA;;CAAA,EAAU,KAAV,CAA8B,EAApB;;CAAV;;CAD2B,OAAQ;CAD8B;CAArE,EAAqE;CAArE"
+}

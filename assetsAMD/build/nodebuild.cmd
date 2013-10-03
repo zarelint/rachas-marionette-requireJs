@@ -1,0 +1,1 @@
+node ../../components/r.js/dist/r.js -o app.build.js

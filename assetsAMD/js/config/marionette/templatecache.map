@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "templatecache.js",
+  "sourceRoot": "",
+  "sources": [
+    "templatecache.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CAAuB,GAAvB,GAAwB,CAAD,EAAhB;CAEQ,EAA8B,MAAf,CAAhB,CAAV,CAAA,CAAwB;CAGpB,SAAA,QAAA;CAAA,EAAW,GAAX,EAAA,EAAA;AACO,CAAP,GAAG,CAAmC,CAAtC,EAAG;CACC,EAAA,KAAA,EAAM,kBAAA;CAAN,EACA,CAAU,CAAA,GAAV;CADA,EAEG,CAAH,IAAA,SAFA;CAGA,EAAA,WAAM;QALV;CAHqC,YASrC;CAXe,IAEsB;CAF7C,EAAuB;CAAvB"
+}

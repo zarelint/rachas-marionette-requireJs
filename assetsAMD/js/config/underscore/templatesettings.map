@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "templatesettings.js",
+  "sourceRoot": "",
+  "sources": [
+    "templatesettings.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;CAAA,CAAA,CAAuB,GAAvB,GAAyB,GAAlB;CACF,EACC,QADF,KAAA;CACE,CAAU,IAAV,EAAA,aAAA;CAAA,CACa,IAAb,KAAA,KADA;CAFiB;CAAvB,EAAuB;CAAvB"
+}

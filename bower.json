@@ -1,0 +1,18 @@
+{
+  "name": "203365",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.0.0",
+    "underscore-amd":"latest",
+    "backbone-amd": "latest",
+    "backbone.wreqr": "latest",
+    "backbone.eventbinder": "latest",
+    "backbone.babysitter": "latest",
+    "marionette": "latest",
+    "bootstrap": "latest",
+    "requirejs": "latest",
+    "r.js": "git://github.com/jrburke/r.js.git",
+    "requirejs-text": "latest"
+  }
+}
+
